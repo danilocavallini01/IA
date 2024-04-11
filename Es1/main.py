@@ -142,7 +142,6 @@ def main():
         [
             breadth_first_tree_search,
             breadth_first_graph_search,
-            depth_first_graph_search,
             astar_search,
         ],
         [problem],
